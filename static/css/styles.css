@@ -1,2 +1,2 @@
-body{background-color:#01ff70}
+body{-ms-flex-align:center;-ms-flex-direction:column;-ms-flex-pack:center;-webkit-align-items:center;-webkit-box-align:center;-webkit-box-direction:normal;-webkit-box-orient:vertical;-webkit-box-pack:center;-webkit-flex-direction:column;-webkit-justify-content:center;align-items:center;background-color:#fcfcfc;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;flex-direction:column;font-family:Montserrat,sans-serif;justify-content:center;line-height:1.7}h1,h2,h3,h4,h5,h6{font-family:Merriweather,serif}header{padding:2rem 0}nav{grid-column-gap:1.5rem;grid-template-columns:auto auto auto}main,nav{display:grid}main{grid-template-columns:1fr 1fr 1fr 1fr 1fr}
 /*# sourceMappingURL=styles.css.map */

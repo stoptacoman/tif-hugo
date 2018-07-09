@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Things I'll Forget | The blog to remember"
+
+[params]
+  description = "The blog to document things I would otherwise forget. Also probably a portfolio site eventually."
